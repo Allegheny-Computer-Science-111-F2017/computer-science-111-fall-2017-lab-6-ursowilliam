@@ -81,7 +81,7 @@ public class ManipulateDna {
     System.out.println("Changing position " + randomInt + " gives " + three);
     System.out.println();
     // Step Six: Display a final thankyou message
-    System.out.println("Thank you for using the ManipulateDna program. ");
+    System.out.println("Thanks for using the ManipulateDna program. ");
     System.out.println("Have a great day. ");
   }
 
